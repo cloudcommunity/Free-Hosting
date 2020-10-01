@@ -5,6 +5,8 @@ Overview of free web hosting offers
 - GitHub Pages
 - GitLab Pages
 - [Netlify](https://www.netlify.com/) (Starter plan)
+- Amazon S3 (5 GB Free during first year)
+- Fast.io with Google Drive
 
 ## PHP
 

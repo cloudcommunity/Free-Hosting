@@ -14,3 +14,9 @@ Overview of free web hosting offers
 ## PHP
 
 - http://www.free-webhosts.com/free-php-webhosting.php
+- Google App Engine (PaaS that supports PHP)
+- Heroku (PaaS that supports PHP)
+
+## Ruby
+
+- Heroku (PaaS that supports Ruby)

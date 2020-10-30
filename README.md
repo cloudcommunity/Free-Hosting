@@ -20,3 +20,7 @@ Overview of free web hosting offers
 ## Ruby
 
 - Heroku (PaaS that supports Ruby)
+
+## Kubernetes
+
+- [Platform9](https://platform9.com/) (Freedom plan)

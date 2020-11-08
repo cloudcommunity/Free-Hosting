@@ -11,6 +11,7 @@ Overview of free web hosting offers.
 - Amazon S3 (5 GB Free during first year)
 - Fast.io with Google Drive
 - Firebase Hosting (Free for 10GB storage / 10GB data transfer per month)
+- [Surge](https://surge.sh/) ("Surge" plan)
 
 ## PHP
 

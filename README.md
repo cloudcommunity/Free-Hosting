@@ -32,3 +32,5 @@ Overview of free web hosting offers.
 - [DataStax Astra](https://astra.datastax.com/) - Cassandra-based, 5 GB free tier, no credit card required
 - [MongoDB Atlas](https://cloud.mongodb.com/) - MongoDB-based, 500 MB - 5 GB free tier
 - [Yugabyte Cloud<sup>BETA</sup>](https://cloud.yugabyte.com/) - YugabyteDB-based, 5 GB free tier, no credit card required
+
+## Serverless Functions

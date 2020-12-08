@@ -1,6 +1,6 @@
 # Free Hosting
 
-Overview of free web hosting offers.
+Overview of free web hosting offers. A good collection can be found at https://free-for.dev/
 
 ## Static Pages
 - GitHub Pages (for open repos only)

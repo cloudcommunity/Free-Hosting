@@ -42,3 +42,4 @@ Overview of free web hosting offers. A good collection can be found at https://f
 ## Misc
 - [fly.io](https://fly.io/) (free tier available)
 - [pagecdn.com](https://pagecdn.com/) (free tier for public CDN)
+- [cloudlayar.com](https://cloudlayar.com/) (free DDoS protection)

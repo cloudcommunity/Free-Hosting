@@ -37,3 +37,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL-based, 20 MB 🙂 in free tier
 
 ## Serverless Functions
+- Netlify
+
+## Misc
+- [fly.io](https://fly.io/) (free tier available)

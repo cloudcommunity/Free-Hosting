@@ -37,7 +37,9 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL-based, 20 MB 🙂 in free tier
 
 ## Serverless Functions
-- Netlify
+- [Netlify](https://www.netlify.com/products/functions/) - no credit card required
+- [Firebase Cloud Functions](https://firebase.google.com/products/functions) - no credit card required
+- [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) supports Node, go, python and Ruby - no credit card required (hobby plan)
 
 ## Misc
 - [fly.io](https://fly.io/) (free tier available)

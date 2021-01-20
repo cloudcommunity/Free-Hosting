@@ -35,6 +35,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [Yugabyte Cloud<sup>BETA</sup>](https://cloud.yugabyte.com/) - YugabyteDB-based, 5 GB free tier, no credit card required
 - [InfluxDB Cloud](https://cloud2.influxdata.com/) - Free plan available
 - [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL-based, 20 MB 🙂 in free tier
+- [MariaDB's SkySQL (cloud)](https://mariadb.com/products/skysql/get-started/) - offers a free $500 in credits for up to three databases of any size and any type (transactional, analytical or hybrid).
 
 ## Serverless Functions
 - Netlify

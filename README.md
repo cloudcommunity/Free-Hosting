@@ -12,6 +12,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - Fast.io with Google Drive
 - Firebase Hosting (Free for 10GB storage / 10GB data transfer per month)
 - [Surge](https://surge.sh/) ("Surge" plan)
+- [Cloudflare Pages](https://pages.cloudflare.com/) (Free plan)
 
 ## PHP
 

@@ -9,7 +9,6 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [Vercel](https://vercel.com/) (Hobby plan)
 - [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/) (Starter plan)
 - Amazon S3 (5 GB Free during first year)
-- Fast.io with Google Drive
 - Firebase Hosting (Free for 10GB storage / 10GB data transfer per month)
 - [Surge](https://surge.sh/) ("Surge" plan)
 - [Cloudflare Pages](https://pages.cloudflare.com/) (Free plan)

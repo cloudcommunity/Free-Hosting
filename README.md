@@ -13,6 +13,9 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [Surge](https://surge.sh/) ("Surge" plan)
 - [Cloudflare Pages](https://pages.cloudflare.com/) (Free plan)
 
+## Object Storage
+- [Storj](https://www.storj.io/) (150GB storage & transfer in the "free plan")
+
 ## PHP
 
 - http://www.free-webhosts.com/free-php-webhosting.php

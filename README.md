@@ -53,7 +53,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 | [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | not required | JavaScript, TypeScript, Go | 125K reqs/month, 100 hrs |
 | [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) | Hobby (non-commercial) | not required | Node.js, Go, Python, Ruby | 12 functions |
 | [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs/month |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | - | not required| - | 100K reqs/day, 30 functions |
+| [Cloudflare Workers](https://workers.cloudflare.com/) | Free | not required| JavaScript, Rust, C, and C++ | 100K reqs/day, 30 functions |
 
 
 ## Misc

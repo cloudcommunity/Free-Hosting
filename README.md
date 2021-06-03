@@ -50,10 +50,10 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 | Product | Plan | Credit Card | Languages | Free Quota |
 | --- | --- | --- |  --- | --- |
-| [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | not required | JavaScript, TypeScript, Go | 125K reqs, 100 hrs |
+| [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | not required | JavaScript, TypeScript, Go | 125K reqs/month, 100 hrs |
 | [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) | Hobby (non-commercial) | not required | Node.js, Go, Python, Ruby | 12 functions |
-| [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | - | not required| - | - |
+| [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs/month |
+| [Cloudflare Workers](https://workers.cloudflare.com/) | - | not required| - | 100K reqs/day, 30 functions |
 
 
 ## Misc

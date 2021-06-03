@@ -2,6 +2,11 @@
 
 Overview of free web hosting offers. A good collection can be found at https://free-for.dev/
 
+## Table of Contents  
+[Static Pages](#static-hages)
+[Object Storage](#object-storage)
+[Serverless Functions](#serverless-functions)
+
 ## Static Pages
 - GitHub Pages (for open repos only)
 - GitLab Pages

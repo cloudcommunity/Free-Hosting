@@ -6,6 +6,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 1. [Static Pages](#static-hages)
 1. [Object Storage](#object-storage)
 1. [Serverless Functions](#serverless-functions)
+1. [Misc](#misc)
 
 ## Static Pages
 - GitHub Pages (for open repos only)
@@ -50,9 +51,9 @@ Overview of free web hosting offers. A good collection can be found at https://f
 | Product | Plan | Credit Card | Languages | Free Quota |
 | --- | --- | --- |  --- | --- |
 | [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | not required | JavaScript, TypeScript, Go | 125K reqs, 100 hrs |
-| [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) | Hobby | not required | Node.js, Go, Python, Ruby | 12 functions |
+| [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) | Hobby (non-commercial) | not required | Node.js, Go, Python, Ruby | 12 functions |
 | [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | -  | not required| - | - |
+| [Cloudflare Workers](https://workers.cloudflare.com/) | - | not required| - | - |
 
 
 ## Misc

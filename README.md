@@ -48,7 +48,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 | Product | Plan | Languages | Free Quota |
 | --- | --- | --- | --- |
-| [Netlify Functions](https://www.netlify.com/products/functions/) | - | JavaScript, TypeScript, Go | - |
+| [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | JavaScript, TypeScript, Go | 125K req, 100 hrs |
 | [Vercel Functions](https://vercel.com/docs/serverless-functions/introduction) | - | Node.js, Go, Python, Ruby | - |
 | [Firebase Cloud Functions](https://firebase.google.com/products/functions) | - | - | - |
 | [Cloudflare Workers](https://workers.cloudflare.com/) | - | - | - |

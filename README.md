@@ -51,12 +51,12 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [Firebase Cloud Functions](https://firebase.google.com/products/functions) - no credit card required
 - [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) (Node.js, Go, Python, Ruby) - no credit card required (hobby plan)
 
-| Product | Plan | Languages | Free Quota |
-| --- | --- | --- | --- |
-| [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | JavaScript, TypeScript, Go | 125K reqs, 100 hrs |
-| [Vercel Functions](https://vercel.com/docs/serverless-functions/introduction) | - | Node.js, Go, Python, Ruby | - |
-| [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | - | - | - |
+| Product | Plan | Credit Card | Languages | Free Quota |
+| --- | --- | --- |  --- | --- |
+| [Netlify Functions](https://www.netlify.com/products/functions/) | Level 0 | not required | JavaScript, TypeScript, Go | 125K reqs, 100 hrs |
+| [Vercel Functions](https://vercel.com/docs/serverless-functions/introduction) | - | not required | Node.js, Go, Python, Ruby | - |
+| [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs |
+| [Cloudflare Workers](https://workers.cloudflare.com/) | -  | not required| - | - |
 
 
 ## Misc

@@ -18,6 +18,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - Firebase Hosting (Free for 10GB storage / 10GB data transfer per month)
 - [Surge](https://surge.sh/) ("Surge" plan)
 - [Cloudflare Pages](https://pages.cloudflare.com/) (Free plan)
+- [Layer0](https://www.layer0.co/) (free Community plan)
 
 ## Object Storage
 - [Storj](https://www.storj.io/) (150GB storage & transfer in the "free plan")

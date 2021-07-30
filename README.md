@@ -10,11 +10,11 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 ## Static Pages / JAMStack-Hosting
 
-|Service Name|Plan|Build Minutes|Concurrent Builds|Outbound Transfer|Storage|Source Provider/Deployment|Number of Sites|Next pricing step/Month|Website|
+|Service Name|Plan|Build Minutes|Concurrent Builds|Outbound Transfer|Storage*|Source Provider/Deployment|Number of Sites|Next pricing step/Month|Website|
 |---|---|---|---|---|---|---|---|---|---|
-|CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)||500|1|Unlimited||Github|Unlimited|20$, 5 concurrent builds, 5K Build minutes|https://pages.cloudflare.com|
-|Vercel|||||||||https://vercel.com/|
-|GitHub Pages|||||||||https://pages.github.com/|
+|CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)|Free|500|1|Unlimited|Unlimited|GitHub|Unlimited|20$, 5 concurrent builds, 5K Build minutes|[link](https://pages.cloudflare.com)|
+|Vercel|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|[link](https://vercel.com/)|
+|GitHub Pages|Free|2000 (via GitHub Actions)|20 (GitHub Actions limit) (10 per hour soft limit ?)|100gb soft limit|1gb|GitHub|Unlimited|$4, GitHub Pro plan|https://pages.github.com/|
 |GitLab Pages|||||||||https://docs.gitlab.com/ee/user/project/pages/|
 |Bitbucket ???|||||||||https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/|
 |DigitalOcean Apps|||||||||https://www.digitalocean.com/products/app-platform/|
@@ -25,10 +25,11 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|
 |GCP Cloud Storage|||||||||https://cloud.google.com/storage|
 |Firebase Hosting|||||||||https://firebase.google.com/docs/hosting|
-|Azure Blob Storage|||||||||https://azure.microsoft.com/en-us/services/storage/blobs/|
+|Azure Blob|||||||||https://azure.microsoft.com/en-us/services/storage/blobs/|
 |Layer0|||||||||https://www.layer0.co/|
 |Surge|||||||||https://surge.sh/|
 
+*\*Note: Storage is influenced by the size limits of your source providers aswell.*
 
 - GitHub Pages (for open repos only)
 - GitLab Pages

@@ -8,7 +8,28 @@ Overview of free web hosting offers. A good collection can be found at https://f
 1. [Serverless Functions](#serverless-functions)
 1. [Misc](#misc)
 
-## Static Pages
+## Static Pages / JAMStack-Hosting
+
+|Service Name|Plan|Build Minutes|Concurrent Builds|Outbound Transfer|Storage|Source Provider/Deployment|Number of Sites|Next pricing step/Month|Website|
+|---|---|---|---|---|---|---|---|---|---|
+|CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)||500|1|Unlimited||Github|Unlimited|20$, 5 concurrent builds, 5K Build minutes|https://pages.cloudflare.com|
+|Vercel|||||||||https://vercel.com/|
+|GitHub Pages|||||||||https://pages.github.com/|
+|GitLab Pages|||||||||https://docs.gitlab.com/ee/user/project/pages/|
+|Bitbucket ???|||||||||https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/|
+|DigitalOcean Apps|||||||||https://www.digitalocean.com/products/app-platform/|
+|Netlify|||||||||https://www.netlify.com/|
+|Render|||||||||https://render.com/|
+|Surge|||||||||https://surge.sh|
+|AWS S3|||||||||https://aws.amazon.com/s3/|
+|AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|
+|GCP Cloud Storage|||||||||https://cloud.google.com/storage|
+|Firebase Hosting|||||||||https://firebase.google.com/docs/hosting|
+|Azure||||||||||
+|Layer0|||||||||https://www.layer0.co/|
+|Surge|||||||||https://surge.sh/|
+
+
 - GitHub Pages (for open repos only)
 - GitLab Pages
 - [Netlify](https://www.netlify.com/) (Starter plan)

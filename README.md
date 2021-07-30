@@ -15,11 +15,10 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |Netlify ![](https://pbs.twimg.com/profile_images/1021779975551111168/KRIHeH2H_400x400.jpg)|Starter|300|1|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket, CLI|Unlimited|19$, Pro, 3 concurrent builds, 1K build minutes|[link](https://www.netlify.com/)|
 |Vercel ![](https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg)|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|[link](https://vercel.com/)|
 |CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)|Free|500|1|Unlimited|Unlimited|GitHub ?|Unlimited|20$, 5 concurrent builds, 5K Build minutes|[link](https://pages.cloudflare.com)|
-|DigitalOcean Apps|||||||||https://www.digitalocean.com/products/app-platform/|
+|DigitalOcean App Platform ![](https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg)|Starter|100|?|1gb|?|GitHub, GitLab|3|5$, 400 build minutes, 40gb outbound transfer|[link](https://www.digitalocean.com/products/app-platform/)|
 |Render|||||||||https://render.com/|
 |Surge|||||||||https://surge.sh|
 |Layer0|||||||||https://www.layer0.co/|
-|Surge|||||||||https://surge.sh/|
 |AWS S3|||||||||https://aws.amazon.com/s3/|
 |AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|
 |GCP Cloud Storage|||||||||https://cloud.google.com/storage|

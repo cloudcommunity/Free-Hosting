@@ -13,9 +13,9 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |Service Name|Plan|Build Minutes|Concurrent Builds|Outbound Transfer|Storage*|Source Provider/Deployment|Number of Sites|Next pricing step/Month|Website|
 |---|---|---|---|---|---|---|---|---|---|
 |CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)|Free|500|1|Unlimited|Unlimited|GitHub|Unlimited|20$, 5 concurrent builds, 5K Build minutes|[link](https://pages.cloudflare.com)|
-|Vercel|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|[link](https://vercel.com/)|
-|GitHub Pages|Free|2000 (via GitHub Actions)|20 (GitHub Actions limit) (10 per hour soft limit ?)|100gb soft limit|1gb|GitHub|Unlimited|$4, GitHub Pro plan|https://pages.github.com/|
-|GitLab Pages|||||||||https://docs.gitlab.com/ee/user/project/pages/|
+|Vercel ![](https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg)|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|[link](https://vercel.com/)|
+|GitHub Pages ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)|Free|2000 (via GitHub Actions)|20 (GitHub Actions limit) (10 per hour soft limit ?)|100gb soft limit|1gb|GitHub|Unlimited (for public repositories only)|$4, GitHub Pro plan|![link](https://pages.github.com/)|
+|GitLab Pages ![](https://driftt.imgix.net/https%3A%2F%2Fdriftt.imgix.net%2Fhttps%253A%252F%252Fs3.amazonaws.com%252Fcustomer-api-avatars-prod%252F85489%252F307fa4f7f37831684fe3e3ee33ab97d3r2wbh3tdbf3w%3Ffit%3Dmax%26fm%3Dpng%26h%3D200%26w%3D200%26s%3D0b63e6b7b7c404889b1225e385b58178?fit=max&fm=png&h=200&w=200&s=b81290fd6e2958430bf4456d4dcafb58)|Free|400|Unlimited|Unlimited|10gb|GitLab|Unlimited|19$, Premium, 10K build minutes|![link](https://docs.gitlab.com/ee/user/project/pages/)|
 |Bitbucket ???|||||||||https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/|
 |DigitalOcean Apps|||||||||https://www.digitalocean.com/products/app-platform/|
 |Netlify|||||||||https://www.netlify.com/|

@@ -25,7 +25,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|
 |GCP Cloud Storage|||||||||https://cloud.google.com/storage|
 |Firebase Hosting|||||||||https://firebase.google.com/docs/hosting|
-|Azure||||||||||
+|Azure Blob Storage|||||||||https://azure.microsoft.com/en-us/services/storage/blobs/|
 |Layer0|||||||||https://www.layer0.co/|
 |Surge|||||||||https://surge.sh/|
 

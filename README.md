@@ -30,18 +30,8 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 *\*Note: Storage is influenced by the size limits of your source providers aswell.*
 
-- GitHub Pages (for open repos only)
-- GitLab Pages
-- [Netlify](https://www.netlify.com/) (Starter plan)
-- [Vercel](https://vercel.com/) (Hobby plan)
-- [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/) (Starter plan)
-- Amazon S3 (5 GB Free during first year)
-- Firebase Hosting (Free for 10GB storage / 10GB data transfer per month)
-- [Surge](https://surge.sh/) ("Surge" plan)
-- [Cloudflare Pages](https://pages.cloudflare.com/) (Free plan)
-- [Layer0](https://www.layer0.co/) (free Community plan)
-
 ## Object Storage
+
 - [Storj](https://www.storj.io/) (150GB storage & transfer in the "free plan")
 
 ## PHP

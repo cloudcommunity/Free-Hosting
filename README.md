@@ -58,6 +58,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 - [Platform9](https://platform9.com/) (Freedom plan)
 - [Civo](https://www.civo.com) (on #KUBE100 beta - $70 free credit every month, no credit card required)
+- [KubeSail](https://kubesail.com/deployments) Signup using Github and get a free kubernetes cluster for learning kubernetes
 
 ## Databases (DBaaS)
 

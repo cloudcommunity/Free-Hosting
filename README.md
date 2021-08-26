@@ -12,11 +12,11 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 |Service Name|Plan|Build Minutes|Concurrent Builds|Outbound Transfer|Storage*|Source Provider/Deployment|Number of Sites|Next pricing step/Month|Website|
 |---|---|---|---|---|---|---|---|---|---|
-|Netlify ![](https://pbs.twimg.com/profile_images/1021779975551111168/KRIHeH2H_400x400.jpg)|Starter|300|1|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket, CLI|Unlimited|19$, Pro, 3 concurrent builds, 1K build minutes|[link](https://www.netlify.com/)|
-|Vercel ![](https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg)|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|[link](https://vercel.com/)|
-|CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)|Free|500|1|Unlimited|Unlimited|GitHub ?|Unlimited|20$, 5 concurrent builds, 5K Build minutes|[link](https://pages.cloudflare.com)|
-|DigitalOcean App Platform ![](https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg)|Starter|100|?|1gb|?|GitHub, GitLab|3|5$, 400 build minutes, 40gb outbound transfer|[link](https://www.digitalocean.com/products/app-platform/)|
-|Render|Static Sites|Unlimited|Unlimited|100 GB|Unlimited|GitHub, GitLab|Unlimited|100 GB/month bandwidth included at no cost. Additional bandwidth just $0.10/GB per month.|[link](https://render.com/)|
+|[Netlify ![](https://pbs.twimg.com/profile_images/1021779975551111168/KRIHeH2H_400x400.jpg)](https://www.netlify.com/)|Starter|300|1|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket, CLI|Unlimited|19$, Pro, 3 concurrent builds, 1K build minutes||
+|[Vercel ![](https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg)](https://vercel.com/)|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan||
+|[CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)](https://pages.cloudflare.com)|Free|500|1|Unlimited|Unlimited|GitHub ?|Unlimited|20$, 5 concurrent builds, 5K Build minutes||
+|[DigitalOcean App Platform ![](https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg)](https://www.digitalocean.com/products/app-platform/)|Starter|100|?|1gb|?|GitHub, GitLab|3|5$, 400 build minutes, 40gb outbound transfer||
+|[Render](https://render.com/)|Static Sites|Unlimited|Unlimited|100 GB|Unlimited|GitHub, GitLab|Unlimited|100 GB/month bandwidth included at no cost. Additional bandwidth just $0.10/GB per month.||
 |Surge|Surge|None|None|Unlimited|Unlimited|CLI, CI/CD|1|Surge Professional at 30$ with unlimited projects|https://surge.sh|
 |Layer0|Community|None|None|100GB Bandwidth|unlimited?|Github, CLI|1 custom domain|3 Custom Domain, 250GB Bandwidth, 5 Environments, 31 Edge Locations, 99.95% Uptime SLA, Real-Time RUM Analytics|https://www.layer0.co/|
 |AWS Amplify Hosting|Free Tier **limited to 1 year**|1000|?|15GB|5GB|?|?|Pay as you go: Build & Deploy $0.01 per build minute, Hosting $0.023 per GB stored /month, $0.15 per GB served|https://aws.amazon.com/amplify/hosting/|

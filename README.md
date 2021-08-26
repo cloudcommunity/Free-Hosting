@@ -17,7 +17,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |CloudFlare Pages ![](https://pages.cloudflare.com/resources/logo/logo.svg)|Free|500|1|Unlimited|Unlimited|GitHub ?|Unlimited|20$, 5 concurrent builds, 5K Build minutes|[link](https://pages.cloudflare.com)|
 |DigitalOcean App Platform ![](https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg_400x400.jpg)|Starter|100|?|1gb|?|GitHub, GitLab|3|5$, 400 build minutes, 40gb outbound transfer|[link](https://www.digitalocean.com/products/app-platform/)|
 |Render|Static Sites|Unlimited|Unlimited|100 GB|Unlimited|GitHub, GitLab|Unlimited|100 GB/month bandwidth included at no cost. Additional bandwidth just $0.10/GB per month.|[link](https://render.com/)|
-|Surge|||||||||https://surge.sh|
+|Surge|Surge|None|None|Unlimited|Unlimited|1|CLI, CI/CD|Surge Professional at 30$ with unlimited projects|https://surge.sh|
 |Layer0|||||||||https://www.layer0.co/|
 |AWS S3|||||||||https://aws.amazon.com/s3/|
 |AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|

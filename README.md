@@ -22,7 +22,8 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |AWS S3|||||||||https://aws.amazon.com/s3/|
 |AWS Amplify Hosting|||||||||https://aws.amazon.com/amplify/hosting/|
 |GCP Cloud Storage|||||||||https://cloud.google.com/storage|
-|Firebase Hosting|||||||||https://firebase.google.com/docs/hosting|
+|Firebase Hosting ![](https://www.gstatic.com/devrel-devsite/prod/vf0396724755d04dbab75050e6812ced8fb2ab11d424163deba5826536b4b1964/firebase/images/lockup.png)|Spark Plan|None|None|360 MB/day / ~10GB/month|10GB|CLI, CI/CD|Limited ~10|$0.026/GB storage,
+$0.15/GB outbound transfer|https://firebase.google.com/docs/hosting|
 |Azure Blob|||||||||https://azure.microsoft.com/en-us/services/storage/blobs/|
 |GitHub Pages ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)|Free|2000 (via GitHub Actions)|20 (GitHub Actions limit) (10 per hour soft limit ?)|100gb soft limit|1gb|GitHub|Unlimited (for public repositories only)|$4, GitHub Pro plan|![link](https://pages.github.com/)|
 |GitLab Pages ![](https://driftt.imgix.net/https%3A%2F%2Fdriftt.imgix.net%2Fhttps%253A%252F%252Fs3.amazonaws.com%252Fcustomer-api-avatars-prod%252F85489%252F307fa4f7f37831684fe3e3ee33ab97d3r2wbh3tdbf3w%3Ffit%3Dmax%26fm%3Dpng%26h%3D200%26w%3D200%26s%3D0b63e6b7b7c404889b1225e385b58178?fit=max&fm=png&h=200&w=200&s=b81290fd6e2958430bf4456d4dcafb58)|Free|400|Unlimited|Unlimited|10gb|GitLab|Unlimited|19$, Premium, 10K build minutes|![link](https://docs.gitlab.com/ee/user/project/pages/)|

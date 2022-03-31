@@ -27,6 +27,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |[Azure Blob](https://azure.microsoft.com/en-us/services/storage/blobs/)|||||||||Yes, a credit card is required.|
 |[AWS S3](https://aws.amazon.com/s3/)|||||||||Yes, a credit card is required.|
 |[GCP Cloud Storage](https://cloud.google.com/storage)|||||||||Yes, a credit card is required.|
+|[Begin](https://begin.com/)||||||||||
 
 *\*Note: Storage is influenced by the size limits of your source providers aswell.*
 

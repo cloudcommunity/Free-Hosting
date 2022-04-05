@@ -68,6 +68,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 | [Vercel Serverless Functions](https://vercel.com/docs/serverless-functions/introduction) | Hobby (non-commercial) | not required | Node.js, Go, Python, Ruby | 12 functions |
 | [Firebase Cloud Functions](https://firebase.google.com/products/functions) | Blaze Plan | required | Node.js, Python, Go, Java, .NET, Ruby, PHP | 2M reqs/month |
 | [Cloudflare Workers](https://workers.cloudflare.com/) | Free | not required | JavaScript, Rust, C, C++ | 100K reqs/day, 30 functions |
+| [AWS Lambda](https://aws.amazon.com/lambda/) | Free Tier limited to 1 year | required | Java, Go, PowerShell, Node.js, C#, Python, Ruby code | 1M reqs/month with the AWS Free Tier |
 | Oracle Functions | - | - | - | - |
 
 ## Misc

@@ -3,10 +3,16 @@
 Overview of free web hosting offers. A good collection can be found at https://free-for.dev/
 
 ## Table of Contents  
-1. [Static Pages](#static-hages)
-1. [Object Storage](#object-storage)
-1. [Serverless Functions](#serverless-functions)
-1. [Misc](#misc)
+- [Free Hosting](#free-hosting)
+  - [Table of Contents](#table-of-contents)
+  - [Static Pages / JAMStack-Hosting](#static-pages--jamstack-hosting)
+  - [Object Storage](#object-storage)
+  - [PHP](#php)
+  - [Ruby](#ruby)
+  - [Kubernetes](#kubernetes)
+  - [Databases (DBaaS)](#databases-dbaas)
+  - [Serverless Functions](#serverless-functions)
+  - [Misc](#misc)
 
 ## Static Pages / JAMStack-Hosting
 
@@ -39,11 +45,9 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 - http://www.free-webhosts.com/free-php-webhosting.php
 - Google App Engine (PaaS that supports PHP)
-- Heroku (PaaS that supports PHP)
 
 ## Ruby
 
-- Heroku (PaaS that supports Ruby)
 
 ## Kubernetes
 

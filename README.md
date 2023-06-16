@@ -60,6 +60,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 - [DataStax Astra](https://astra.datastax.com/) - Cassandra-based, 5 GB free tier, no credit card required
 - [MongoDB Atlas](https://cloud.mongodb.com/) - MongoDB-based, 500 MB - 5 GB free tier
 - [Yugabyte Cloud<sup>BETA</sup>](https://cloud.yugabyte.com/) - YugabyteDB-based, 5 GB free tier, no credit card required
+- [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs) available for free each month. no credit card required
 - [InfluxDB Cloud](https://cloud2.influxdata.com/) - Free plan available
 - [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL-based, 20 MB 🙂 in free tier
 - [MariaDB's SkySQL (cloud)](https://mariadb.com/products/skysql/get-started/) - offers a free $500 in credits for up to three databases of any size and any type (transactional, analytical or hybrid).

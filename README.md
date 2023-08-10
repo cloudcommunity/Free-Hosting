@@ -43,6 +43,8 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 ## PHP
 
+[Decentrealizedweb](https://www.decentrealizedweb.xyz) (Decentrealized Web Free Hosting, 5 GB Storage, Unlimited Bandwidth, Unlimited MySQL Database, Unlimited Domain, Free Subdomain,  No credit card required.)
+
 - http://www.free-webhosts.com/free-php-webhosting.php
 - Google App Engine (PaaS that supports PHP)
 

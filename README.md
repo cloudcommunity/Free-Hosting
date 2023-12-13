@@ -21,6 +21,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |[Netlify](https://www.netlify.com/)|Starter|300|1|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket, CLI|Unlimited|19$, Pro, 3 concurrent builds, 1K build minutes|No credit card requirements|
 |[Vercel](https://vercel.com/)|Hobby|6000|10 every 10 minutes|100gb|Unlimited (?)|GitHub, GitLab, Bitbucket and CLI|Unlimited|20$, Pro plan|No credit card requirements|
 |[CloudFlare Pages](https://pages.cloudflare.com)|Free|500|1|Unlimited|Unlimited|GitHub ?|Unlimited|20$, 5 concurrent builds, 5K Build minutes|No credit card requirements|
+|[Koyeb](https://www.koyeb.com/)|Free|Unlimited|1|Outbound bandwidth is not charged yet|2GB SSD|GitHub, pre-built Docker containers|1|1.61$, Starter Plan|No credit card requirements|
 |[DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)|Starter|100|?|1gb|?|GitHub, GitLab|3|5$, 400 build minutes, 40gb outbound transfer|Yes, a credit card is required.|
 |[Render](https://render.com/)|Static Sites|Unlimited|Unlimited|100 GB|Unlimited|GitHub, GitLab|Unlimited|100 GB/month bandwidth included at no cost. Additional bandwidth just $0.10/GB per month.|No credit card requirements|
 |[Surge](https://surge.sh)|Surge|None|None|Unlimited|Unlimited|CLI, CI/CD|1|Surge Professional at 30$ with unlimited projects|No credit card requirements|
@@ -60,6 +61,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 
 - [DataStax Astra](https://astra.datastax.com/) - Cassandra-based, 5 GB free tier, no credit card required
 - [MongoDB Atlas](https://cloud.mongodb.com/) - MongoDB-based, 500 MB - 5 GB free tier
+- [Koyeb](https://www.koyeb.com/) - Postgres, 1GB memory, 1GB storage, and 0.25 CPU. Available in Frankfurt (Germany), Washington, D.C. (US), and Singapore.
 - [Yugabyte Cloud<sup>BETA</sup>](https://cloud.yugabyte.com/) - YugabyteDB-based, 5 GB free tier, no credit card required
 - [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs) available for free each month. no credit card required
 - [InfluxDB Cloud](https://cloud2.influxdata.com/) - Free plan available

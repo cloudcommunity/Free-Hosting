@@ -35,6 +35,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |[AWS S3](https://aws.amazon.com/s3/)|||||||||Yes, a credit card is required.|
 |[GCP Cloud Storage](https://cloud.google.com/storage)|||||||||Yes, a credit card is required.|
 |[Begin](https://begin.com/)||||||||||
+|[Deno](https://deno.com/)||||||||||
 |[Kinsta](https://kinsta.com/static-site-hosting/)|Free|600|1|100GB|1 GB build image size per site|GitHub, GitLab, Bitbucket|100||No|
 
 *\*Note: Storage is influenced by the size limits of your source providers aswell.*

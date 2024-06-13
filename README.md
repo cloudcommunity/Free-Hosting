@@ -34,8 +34,8 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |[Azure Blob](https://azure.microsoft.com/en-us/services/storage/blobs/)|||||||||Yes, a credit card is required.|
 |[AWS S3](https://aws.amazon.com/s3/)|||||||||Yes, a credit card is required.|
 |[GCP Cloud Storage](https://cloud.google.com/storage)|||||||||Yes, a credit card is required.|
-|[Begin](https://begin.com/)||||||||||
-|[Deno](https://deno.com/)||||||||||
+|[Begin](https://begin.com/)|Free|None|?|1GB|1GB|Github, CLI|Unlimited|8$ Side project plan|No credit card requirements|
+|[Deno](https://deno.com/)|Free|?|Unlimited|100GB|1GB|Github,CLI|Unlimited|20$ Pro plan|No credit card requirements|
 |[Kinsta](https://kinsta.com/static-site-hosting/)|Free|600|1|100GB|1 GB build image size per site|GitHub, GitLab, Bitbucket|100||No|
 
 *\*Note: Storage is influenced by the size limits of your source providers aswell.*

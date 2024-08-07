@@ -37,6 +37,7 @@ Overview of free web hosting offers. A good collection can be found at https://f
 |[Begin](https://begin.com/)||||||||||
 |[Deno](https://deno.com/)||||||||||
 |[Kinsta](https://kinsta.com/static-site-hosting/)|Free|600|1|100GB|1 GB build image size per site|GitHub, GitLab, Bitbucket|100||No|
+|[Erath](https://erath.vercel.app)|Free|||Unknown Limited|Uses your local Storage||No Limits|Free as long you support|No credits card requirements| Free web page hosting through a storage-less webpage hosting model, embedding data directly into URLs for secure and immutable access. Utilizes AES-256 encryption for data protection and integrity, ensuring perpetual availability without traditional data storage.
 
 *\*Note: Storage is influenced by the size limits of your source providers aswell.*
 

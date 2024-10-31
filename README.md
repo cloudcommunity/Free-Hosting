@@ -2,17 +2,16 @@
 
 Overview of free web hosting offers. A good collection can be found at https://free-for.dev/
 
-## Table of Contents  
-- [Free Hosting](#free-hosting)
-  - [Table of Contents](#table-of-contents)
-  - [Static Pages / JAMStack-Hosting](#static-pages--jamstack-hosting)
-  - [Object Storage](#object-storage)
-  - [PHP](#php)
-  - [Ruby](#ruby)
-  - [Kubernetes](#kubernetes)
-  - [Databases (DBaaS)](#databases-dbaas)
-  - [Serverless Functions](#serverless-functions)
-  - [Misc](#misc)
+## Table of Contents
+
+- [Static Pages / JAMStack-Hosting](#static-pages--jamstack-hosting)
+- [Object Storage](#object-storage)
+- [PHP](#php)
+- [Ruby](#ruby)
+- [Kubernetes](#kubernetes)
+- [Databases (DBaaS)](#databases-dbaas)
+- [Serverless Functions](#serverless-functions)
+- [Misc](#misc)
 
 ## Static Pages / JAMStack-Hosting
 
